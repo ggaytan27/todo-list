@@ -1,0 +1,9 @@
+#Ignnorar archivos de configuracion de entorno
+.env
+.env-todo
+/env-todo/
+
+#Ignorar archivos .db
+.db
+.instance
+/instance/
